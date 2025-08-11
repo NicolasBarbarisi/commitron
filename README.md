@@ -118,7 +118,7 @@ You can configure `commitron` with environment variables or a `.aicommitrc` file
 
 Clone the repo:
 ```bash
-git clone https://github.com/ChrisBradford2/commitron.git
+git clone https://github.com/NicolasBarbarisi/commitron.git
 cd commitron
 npm install
 ```
@@ -139,4 +139,4 @@ commitron
 
 ## 📜 License
 
-MIT © [Nicolas Barbarisi](https://github.com/ChrisBradford2)
+MIT © [Nicolas Barbarisi](https://github.com/NicolasBarbarisi)
